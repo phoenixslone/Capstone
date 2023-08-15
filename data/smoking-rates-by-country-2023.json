@@ -1,0 +1,890 @@
+[
+  {
+    "country": "Nauru",
+    "rateBoth": 52.1,
+    "rateMale": 51.7,
+    "rateFemale": 52.6
+  },
+  {
+    "country": "Kiribati",
+    "rateBoth": 52,
+    "rateMale": 68.6,
+    "rateFemale": 35.5
+  },
+  {
+    "country": "Tuvalu",
+    "rateBoth": 48.7,
+    "rateMale": 66,
+    "rateFemale": 31.4
+  },
+  {
+    "country": "Myanmar",
+    "rateBoth": 45.5,
+    "rateMale": 70.2,
+    "rateFemale": 20.8
+  },
+  {
+    "country": "Chile",
+    "rateBoth": 44.7,
+    "rateMale": 49.2,
+    "rateFemale": 40.3
+  },
+  {
+    "country": "Lebanon",
+    "rateBoth": 42.6,
+    "rateMale": 49.4,
+    "rateFemale": 35.9
+  },
+  {
+    "country": "Serbia",
+    "rateBoth": 40.6,
+    "rateMale": 40,
+    "rateFemale": 41.2
+  },
+  {
+    "country": "Bangladesh",
+    "rateBoth": 39.1,
+    "rateMale": 60.6,
+    "rateFemale": 17.7
+  },
+  {
+    "country": "Greece",
+    "rateBoth": 39.1,
+    "rateMale": 45.3,
+    "rateFemale": 32.8
+  },
+  {
+    "country": "Bulgaria",
+    "rateBoth": 38.9,
+    "rateMale": 42.5,
+    "rateFemale": 35.3
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "rateBoth": 38.3,
+    "rateMale": 46.3,
+    "rateFemale": 30.2
+  },
+  {
+    "country": "Timor-Leste",
+    "rateBoth": 38.2,
+    "rateMale": 65.8,
+    "rateFemale": 10.7
+  },
+  {
+    "country": "Indonesia",
+    "rateBoth": 37.9,
+    "rateMale": 70.5,
+    "rateFemale": 5.3
+  },
+  {
+    "country": "Solomon Islands",
+    "rateBoth": 37.9,
+    "rateMale": 55.9,
+    "rateFemale": 19.9
+  },
+  {
+    "country": "Laos",
+    "rateBoth": 37.8,
+    "rateMale": 60.1,
+    "rateFemale": 15.5
+  },
+  {
+    "country": "Latvia",
+    "rateBoth": 36.7,
+    "rateMale": 49.5,
+    "rateFemale": 24
+  },
+  {
+    "country": "Cyprus",
+    "rateBoth": 36.7,
+    "rateMale": 50.1,
+    "rateFemale": 23.3
+  },
+  {
+    "country": "Croatia",
+    "rateBoth": 36.6,
+    "rateMale": 37.9,
+    "rateFemale": 35.3
+  },
+  {
+    "country": "France",
+    "rateBoth": 34.6,
+    "rateMale": 36,
+    "rateFemale": 33.2
+  },
+  {
+    "country": "Andorra",
+    "rateBoth": 33.8,
+    "rateMale": 38.1,
+    "rateFemale": 29.5
+  },
+  {
+    "country": "Slovakia",
+    "rateBoth": 32.3,
+    "rateMale": 38.6,
+    "rateFemale": 26
+  },
+  {
+    "country": "Nepal",
+    "rateBoth": 31.9,
+    "rateMale": 48.6,
+    "rateFemale": 15.3
+  },
+  {
+    "country": "South Africa",
+    "rateBoth": 31.4,
+    "rateMale": 46.8,
+    "rateFemale": 16
+  },
+  {
+    "country": "Hungary",
+    "rateBoth": 30.6,
+    "rateMale": 34.8,
+    "rateFemale": 26.4
+  },
+  {
+    "country": "Estonia",
+    "rateBoth": 30.5,
+    "rateMale": 36.9,
+    "rateFemale": 24.1
+  },
+  {
+    "country": "Tonga",
+    "rateBoth": 30.2,
+    "rateMale": 48.4,
+    "rateFemale": 12.1
+  },
+  {
+    "country": "Georgia",
+    "rateBoth": 29.7,
+    "rateMale": 54.2,
+    "rateFemale": 5.2
+  },
+  {
+    "country": "Lesotho",
+    "rateBoth": 29.7,
+    "rateMale": 54.7,
+    "rateFemale": 4.6
+  },
+  {
+    "country": "Turkey",
+    "rateBoth": 29.3,
+    "rateMale": 41.5,
+    "rateFemale": 17
+  },
+  {
+    "country": "Albania",
+    "rateBoth": 29.2,
+    "rateMale": 50.5,
+    "rateFemale": 7.9
+  },
+  {
+    "country": "Austria",
+    "rateBoth": 29.1,
+    "rateMale": 30.4,
+    "rateFemale": 27.7
+  },
+  {
+    "country": "Madagascar",
+    "rateBoth": 28.9,
+    "rateMale": 46.9,
+    "rateFemale": 11
+  },
+  {
+    "country": "Samoa",
+    "rateBoth": 28.9,
+    "rateMale": 40.8,
+    "rateFemale": 16.9
+  },
+  {
+    "country": "Russia",
+    "rateBoth": 28.3,
+    "rateMale": 40.9,
+    "rateFemale": 15.7
+  },
+  {
+    "country": "Germany",
+    "rateBoth": 28,
+    "rateMale": 29.9,
+    "rateFemale": 26
+  },
+  {
+    "country": "Spain",
+    "rateBoth": 27.9,
+    "rateMale": 29.1,
+    "rateFemale": 26.7
+  },
+  {
+    "country": "Portugal",
+    "rateBoth": 27.9,
+    "rateMale": 33.3,
+    "rateFemale": 22.4
+  },
+  {
+    "country": "Kyrgyzstan",
+    "rateBoth": 27.9,
+    "rateMale": 52.5,
+    "rateFemale": 3.4
+  },
+  {
+    "country": "Mongolia",
+    "rateBoth": 27.6,
+    "rateMale": 49.1,
+    "rateFemale": 6.2
+  },
+  {
+    "country": "Cuba",
+    "rateBoth": 27.1,
+    "rateMale": 39.7,
+    "rateFemale": 14.5
+  },
+  {
+    "country": "Lithuania",
+    "rateBoth": 27.1,
+    "rateMale": 35.3,
+    "rateFemale": 19
+  },
+  {
+    "country": "India",
+    "rateBoth": 27,
+    "rateMale": 42,
+    "rateFemale": 12.1
+  },
+  {
+    "country": "Mauritius",
+    "rateBoth": 26.9,
+    "rateMale": 48.3,
+    "rateFemale": 5.4
+  },
+  {
+    "country": "Armenia",
+    "rateBoth": 26.7,
+    "rateMale": 51.8,
+    "rateFemale": 1.6
+  },
+  {
+    "country": "Fiji",
+    "rateBoth": 26.7,
+    "rateMale": 42.3,
+    "rateFemale": 11.1
+  },
+  {
+    "country": "Belarus",
+    "rateBoth": 26.6,
+    "rateMale": 42.8,
+    "rateFemale": 10.4
+  },
+  {
+    "country": "Cook Islands",
+    "rateBoth": 26.6,
+    "rateMale": 31.3,
+    "rateFemale": 21.8
+  },
+  {
+    "country": "Poland",
+    "rateBoth": 26,
+    "rateMale": 30.3,
+    "rateFemale": 21.6
+  },
+  {
+    "country": "Tunisia",
+    "rateBoth": 26,
+    "rateMale": 49.1,
+    "rateFemale": 2.9
+  },
+  {
+    "country": "Ukraine",
+    "rateBoth": 25.5,
+    "rateMale": 41,
+    "rateFemale": 9.9
+  },
+  {
+    "country": "Romania",
+    "rateBoth": 25.5,
+    "rateMale": 35.2,
+    "rateFemale": 15.8
+  },
+  {
+    "country": "Israel",
+    "rateBoth": 25.5,
+    "rateMale": 35.2,
+    "rateFemale": 15.8
+  },
+  {
+    "country": "Moldova",
+    "rateBoth": 25.3,
+    "rateMale": 44.6,
+    "rateFemale": 6
+  },
+  {
+    "country": "United States",
+    "rateBoth": 25.1,
+    "rateMale": 30.9,
+    "rateFemale": 19.3
+  },
+  {
+    "country": "Switzerland",
+    "rateBoth": 25.1,
+    "rateMale": 27.8,
+    "rateFemale": 22.5
+  },
+  {
+    "country": "Bahrain",
+    "rateBoth": 25.1,
+    "rateMale": 41.5,
+    "rateFemale": 8.6
+  },
+  {
+    "country": "Malta",
+    "rateBoth": 25.1,
+    "rateMale": 27.8,
+    "rateFemale": 22.5
+  },
+  {
+    "country": "Belgium",
+    "rateBoth": 25,
+    "rateMale": 26.9,
+    "rateFemale": 23.1
+  },
+  {
+    "country": "China",
+    "rateBoth": 24.7,
+    "rateMale": 47.7,
+    "rateFemale": 1.8
+  },
+  {
+    "country": "Kazakhstan",
+    "rateBoth": 24.4,
+    "rateMale": 42.2,
+    "rateFemale": 6.6
+  },
+  {
+    "country": "Philippines",
+    "rateBoth": 24.3,
+    "rateMale": 41.6,
+    "rateFemale": 7
+  },
+  {
+    "country": "Vanuatu",
+    "rateBoth": 24.1,
+    "rateMale": 45,
+    "rateFemale": 3.3
+  },
+  {
+    "country": "Botswana",
+    "rateBoth": 23.7,
+    "rateMale": 37.3,
+    "rateFemale": 10.1
+  },
+  {
+    "country": "Palau",
+    "rateBoth": 23.7,
+    "rateMale": 36.3,
+    "rateFemale": 11.2
+  },
+  {
+    "country": "Ireland",
+    "rateBoth": 23.6,
+    "rateMale": 26.1,
+    "rateFemale": 21.2
+  },
+  {
+    "country": "Italy",
+    "rateBoth": 23.4,
+    "rateMale": 27.1,
+    "rateFemale": 19.6
+  },
+  {
+    "country": "Netherlands",
+    "rateBoth": 23.4,
+    "rateMale": 25.6,
+    "rateFemale": 21.3
+  },
+  {
+    "country": "Sri Lanka",
+    "rateBoth": 22.9,
+    "rateMale": 43.2,
+    "rateFemale": 2.7
+  },
+  {
+    "country": "Thailand",
+    "rateBoth": 22.8,
+    "rateMale": 42.5,
+    "rateFemale": 3.1
+  },
+  {
+    "country": "Slovenia",
+    "rateBoth": 22.7,
+    "rateMale": 25.1,
+    "rateFemale": 20.3
+  },
+  {
+    "country": "Iraq",
+    "rateBoth": 22.2,
+    "rateMale": 40.8,
+    "rateFemale": 3.6
+  },
+  {
+    "country": "Kuwait",
+    "rateBoth": 22.1,
+    "rateMale": 40.9,
+    "rateFemale": 3.4
+  },
+  {
+    "country": "South Korea",
+    "rateBoth": 22,
+    "rateMale": 38.2,
+    "rateFemale": 5.9
+  },
+  {
+    "country": "Japan",
+    "rateBoth": 21.9,
+    "rateMale": 33.2,
+    "rateFemale": 10.5
+  },
+  {
+    "country": "Argentina",
+    "rateBoth": 21.8,
+    "rateMale": 28.2,
+    "rateFemale": 15.4
+  },
+  {
+    "country": "Malaysia",
+    "rateBoth": 21.8,
+    "rateMale": 42.7,
+    "rateFemale": 1
+  },
+  {
+    "country": "Cambodia",
+    "rateBoth": 21.8,
+    "rateMale": 37.4,
+    "rateFemale": 6.3
+  },
+  {
+    "country": "Uruguay",
+    "rateBoth": 21.8,
+    "rateMale": 25.2,
+    "rateFemale": 18.4
+  },
+  {
+    "country": "Luxembourg",
+    "rateBoth": 21.7,
+    "rateMale": 23.6,
+    "rateFemale": 19.8
+  },
+  {
+    "country": "Egypt",
+    "rateBoth": 21.4,
+    "rateMale": 42.3,
+    "rateFemale": 0.4
+  },
+  {
+    "country": "Seychelles",
+    "rateBoth": 21.1,
+    "rateMale": 35.3,
+    "rateFemale": 6.9
+  },
+  {
+    "country": "Yemen",
+    "rateBoth": 20.9,
+    "rateMale": 32.5,
+    "rateFemale": 9.3
+  },
+  {
+    "country": "Pakistan",
+    "rateBoth": 20,
+    "rateMale": 33.6,
+    "rateFemale": 6.4
+  },
+  {
+    "country": "Sierra Leone",
+    "rateBoth": 19.8,
+    "rateMale": 31,
+    "rateFemale": 8.5
+  },
+  {
+    "country": "Finland",
+    "rateBoth": 19.7,
+    "rateMale": 21,
+    "rateFemale": 18.3
+  },
+  {
+    "country": "Azerbaijan",
+    "rateBoth": 19.6,
+    "rateMale": 39,
+    "rateFemale": 0.2
+  },
+  {
+    "country": "Comoros",
+    "rateBoth": 19.5,
+    "rateMale": 29.9,
+    "rateFemale": 9.2
+  },
+  {
+    "country": "United Kingdom",
+    "rateBoth": 19.2,
+    "rateMale": 21.1,
+    "rateFemale": 17.3
+  },
+  {
+    "country": "Algeria",
+    "rateBoth": 18.8,
+    "rateMale": 36.3,
+    "rateFemale": 1.4
+  },
+  {
+    "country": "North Korea",
+    "rateBoth": 18.8,
+    "rateMale": 37.5,
+    "rateFemale": 0
+  },
+  {
+    "country": "Denmark",
+    "rateBoth": 18.6,
+    "rateMale": 18.4,
+    "rateFemale": 18.7
+  },
+  {
+    "country": "United Arab Emirates",
+    "rateBoth": 18.2,
+    "rateMale": 35.6,
+    "rateFemale": 0.8
+  },
+  {
+    "country": "Namibia",
+    "rateBoth": 17.9,
+    "rateMale": 28.4,
+    "rateFemale": 7.4
+  },
+  {
+    "country": "Canada",
+    "rateBoth": 17.5,
+    "rateMale": 22.7,
+    "rateFemale": 12.4
+  },
+  {
+    "country": "Saudi Arabia",
+    "rateBoth": 16.6,
+    "rateMale": 31.2,
+    "rateFemale": 2
+  },
+  {
+    "country": "Brazil",
+    "rateBoth": 16.5,
+    "rateMale": 21.5,
+    "rateFemale": 11.5
+  },
+  {
+    "country": "Singapore",
+    "rateBoth": 16.5,
+    "rateMale": 27.8,
+    "rateFemale": 5.1
+  },
+  {
+    "country": "Australia",
+    "rateBoth": 16.2,
+    "rateMale": 18.7,
+    "rateFemale": 13.6
+  },
+  {
+    "country": "Republic of the Congo",
+    "rateBoth": 16.1,
+    "rateMale": 30.1,
+    "rateFemale": 2
+  },
+  {
+    "country": "Burkina Faso",
+    "rateBoth": 16,
+    "rateMale": 24.9,
+    "rateFemale": 7.2
+  },
+  {
+    "country": "Brunei",
+    "rateBoth": 15.5,
+    "rateMale": 28.6,
+    "rateFemale": 2.5
+  },
+  {
+    "country": "New Zealand",
+    "rateBoth": 14.8,
+    "rateMale": 16.1,
+    "rateFemale": 13.5
+  },
+  {
+    "country": "Morocco",
+    "rateBoth": 14.7,
+    "rateMale": 28.6,
+    "rateFemale": 0.9
+  },
+  {
+    "country": "Zambia",
+    "rateBoth": 14.7,
+    "rateMale": 25,
+    "rateFemale": 4.4
+  },
+  {
+    "country": "Mozambique",
+    "rateBoth": 14.4,
+    "rateMale": 23.4,
+    "rateFemale": 5.4
+  },
+  {
+    "country": "Gambia",
+    "rateBoth": 14.4,
+    "rateMale": 27.3,
+    "rateFemale": 1.5
+  },
+  {
+    "country": "Iran",
+    "rateBoth": 14,
+    "rateMale": 24.6,
+    "rateFemale": 3.5
+  },
+  {
+    "country": "Qatar",
+    "rateBoth": 14,
+    "rateMale": 26.7,
+    "rateFemale": 1.3
+  },
+  {
+    "country": "Mexico",
+    "rateBoth": 13.9,
+    "rateMale": 21.2,
+    "rateFemale": 6.5
+  },
+  {
+    "country": "Zimbabwe",
+    "rateBoth": 13.9,
+    "rateMale": 26.5,
+    "rateFemale": 1.3
+  },
+  {
+    "country": "Iceland",
+    "rateBoth": 13.8,
+    "rateMale": 13.9,
+    "rateFemale": 13.7
+  },
+  {
+    "country": "Tanzania",
+    "rateBoth": 13.3,
+    "rateMale": 23.5,
+    "rateFemale": 3.1
+  },
+  {
+    "country": "Rwanda",
+    "rateBoth": 13.3,
+    "rateMale": 19.7,
+    "rateFemale": 6.9
+  },
+  {
+    "country": "Ivory Coast",
+    "rateBoth": 13,
+    "rateMale": 24.3,
+    "rateFemale": 1.6
+  },
+  {
+    "country": "Norway",
+    "rateBoth": 13,
+    "rateMale": 15.5,
+    "rateFemale": 10.5
+  },
+  {
+    "country": "Malawi",
+    "rateBoth": 12.8,
+    "rateMale": 20.4,
+    "rateFemale": 5.2
+  },
+  {
+    "country": "Paraguay",
+    "rateBoth": 12.8,
+    "rateMale": 20.8,
+    "rateFemale": 4.7
+  },
+  {
+    "country": "El Salvador",
+    "rateBoth": 12.7,
+    "rateMale": 22.8,
+    "rateFemale": 2.5
+  },
+  {
+    "country": "Burundi",
+    "rateBoth": 12.6,
+    "rateMale": 18.8,
+    "rateFemale": 6.4
+  },
+  {
+    "country": "Uzbekistan",
+    "rateBoth": 12.3,
+    "rateMale": 23.3,
+    "rateFemale": 1.3
+  },
+  {
+    "country": "Guyana",
+    "rateBoth": 12.2,
+    "rateMale": 22.1,
+    "rateFemale": 2.2
+  },
+  {
+    "country": "Mali",
+    "rateBoth": 12,
+    "rateMale": 22.4,
+    "rateFemale": 1.7
+  },
+  {
+    "country": "Kenya",
+    "rateBoth": 11.8,
+    "rateMale": 20.8,
+    "rateFemale": 2.8
+  },
+  {
+    "country": "Chad",
+    "rateBoth": 11.8,
+    "rateMale": 21.3,
+    "rateFemale": 2.3
+  },
+  {
+    "country": "Jamaica",
+    "rateBoth": 11,
+    "rateMale": 17.7,
+    "rateFemale": 4.2
+  },
+  {
+    "country": "Bahamas",
+    "rateBoth": 10.9,
+    "rateMale": 18.6,
+    "rateFemale": 3.2
+  },
+  {
+    "country": "Eswatini",
+    "rateBoth": 10.7,
+    "rateMale": 19.1,
+    "rateFemale": 2.2
+  },
+  {
+    "country": "Uganda",
+    "rateBoth": 9.8,
+    "rateMale": 15.5,
+    "rateFemale": 4
+  },
+  {
+    "country": "Costa Rica",
+    "rateBoth": 9.8,
+    "rateMale": 14.7,
+    "rateFemale": 5
+  },
+  {
+    "country": "Peru",
+    "rateBoth": 9.6,
+    "rateMale": 15.6,
+    "rateFemale": 3.6
+  },
+  {
+    "country": "Oman",
+    "rateBoth": 9.6,
+    "rateMale": 18.5,
+    "rateFemale": 0.7
+  },
+  {
+    "country": "Dominican Republic",
+    "rateBoth": 9.4,
+    "rateMale": 11.2,
+    "rateFemale": 7.5
+  },
+  {
+    "country": "Cameroon",
+    "rateBoth": 9.3,
+    "rateMale": 17.5,
+    "rateFemale": 1.2
+  },
+  {
+    "country": "Senegal",
+    "rateBoth": 9.1,
+    "rateMale": 17.4,
+    "rateFemale": 0.7
+  },
+  {
+    "country": "Barbados",
+    "rateBoth": 8.7,
+    "rateMale": 15,
+    "rateFemale": 2.3
+  },
+  {
+    "country": "Niger",
+    "rateBoth": 8.6,
+    "rateMale": 16.3,
+    "rateFemale": 0.8
+  },
+  {
+    "country": "Liberia",
+    "rateBoth": 8.4,
+    "rateMale": 15.1,
+    "rateFemale": 1.8
+  },
+  {
+    "country": "Haiti",
+    "rateBoth": 8.3,
+    "rateMale": 13.3,
+    "rateFemale": 3.3
+  },
+  {
+    "country": "Sweden",
+    "rateBoth": 8,
+    "rateMale": 6,
+    "rateFemale": 8
+  },
+  {
+    "country": "Colombia",
+    "rateBoth": 7.9,
+    "rateMale": 12.2,
+    "rateFemale": 3.7
+  },
+  {
+    "country": "Togo",
+    "rateBoth": 7.6,
+    "rateMale": 13.5,
+    "rateFemale": 1.6
+  },
+  {
+    "country": "Benin",
+    "rateBoth": 7.2,
+    "rateMale": 12.4,
+    "rateFemale": 1.9
+  },
+  {
+    "country": "Eritrea",
+    "rateBoth": 7.2,
+    "rateMale": 14.2,
+    "rateFemale": 0.3
+  },
+  {
+    "country": "Panama",
+    "rateBoth": 6.9,
+    "rateMale": 11.1,
+    "rateFemale": 2.7
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "rateBoth": 5.4,
+    "rateMale": 9.5,
+    "rateFemale": 1.4
+  },
+  {
+    "country": "Nigeria",
+    "rateBoth": 4.8,
+    "rateMale": 9,
+    "rateFemale": 0.5
+  },
+  {
+    "country": "Ethiopia",
+    "rateBoth": 4.6,
+    "rateMale": 8.3,
+    "rateFemale": 0.9
+  },
+  {
+    "country": "Ghana",
+    "rateBoth": 3.7,
+    "rateMale": 7,
+    "rateFemale": 0.4
+  }
+]
