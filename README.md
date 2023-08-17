@@ -1,4 +1,4 @@
-# Nashville Software School - Data Analytics Program - Capstone
+# Life Expectancy Trends Worlwide
 
 Completion date: August 18, 2023      
 
@@ -11,7 +11,7 @@ Completion date: August 18, 2023
 5. [Conclusion](#conclusion)
 
 ## Tableau Dashboard
-Link: 
+Link: https://public.tableau.com/shared/JY7SX44YN?:display_count=n&:origin=viz_share_link
 
 <a name="overview"></a>
 ## Overview
@@ -19,7 +19,8 @@ Link:
 
 <a name="dataquestion"></a>
 ## Data Question
-  How does the interplay of smoking rates, alcohol consumption, and gross domestic product (GDP) correlate with the differences in life expectancy trends among developed, developing, and all countries from 2010 to 2015?
+  1. How does the interplay of alcohol consumption, smoking rates, and gross domestic product (GDP) correlate with the differences in life expectancy trends among developed, developing, and all countries from 2010 to 2015?
+  2. Are there any correlations between alcohol consumption and smoking related mortalities compared to GDP?
 
 <a name="technologies"></a>
 ## Technologies Used
@@ -33,7 +34,7 @@ To answer the question above, I used the following sources to collect the datase
 1. Life Expectancy Demographics - webscraped using the following website:
     https://www.macrotrends.net/
 2. Smoking Rates (Factor #1)
-    https://worldpopulationreview.com/country-rankings/smoking-rates-by-country
+    https://ourworldindata.org/grapher/death-rate-smoking
 3. Consumption of Alcohol Rates (Factor #2)
     https://ourworldindata.org/alcohol-consumption
 4. Developed/Developing Country and Gross Domestic Product (GDP) per Capita (Factor #3)
@@ -42,6 +43,7 @@ To answer the question above, I used the following sources to collect the datase
 <a name="conclusion"></a>
 ## Conclusion
 
-  1) Smoking Rates has a positive correlation to Life Expectancy
-  2) Deaths by Consumption of Alcohol have a slight positive correlation to Life Expectancy
+  1) Consumption of Alcohol have a slight positive correlation to Life Expectancy
+  2) Smoking Related Mortalities Rates has a positive correlation to Life Expectancy
   3) GDP per Captia has a positive correlation to Life Expectancy
+  4) Both Consumption of Alcohol and Smoking Related Mortalites are more prevalent in the countries with lower GDP; however, those contributing factors do continue to follow the trend of increasing rates as GDP increases.
